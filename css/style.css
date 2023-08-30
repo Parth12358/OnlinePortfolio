@@ -1,0 +1,34 @@
+html{
+    background-color:#61677A;
+}
+.hero-container{
+    background-color: #61677A;
+    padding:0px;
+}
+.profile-img{
+    border-radius:20%;
+}
+.name-span{
+    color:#071952;
+}
+.Experience-tab{
+    background-color: #D8D9DA;
+}
+.item-list-color{
+    background-color: #FFF6E0;
+}
+.header-page{
+    background-color: #272829;
+}
+.Skills-sect{
+    background-color:#272829;
+    color: white;
+}
+.Header-css{
+    background-color: #272829;
+    color: white;
+}
+.invisible{
+    visibility: hidden;
+}
+
